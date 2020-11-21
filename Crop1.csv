@@ -1,0 +1,500 @@
+,Crop,N,P,K,pH,temp,climate
+0,Rice,80,42,12,15.5,8,1
+1,Rice,78,45,45,14.5,12,1
+2,Rice,65,23,46,12.5,15,1
+3,Rice,78,45,47,20.5,14,1
+4,Rice,45,65,47,14.5,11,1
+6,Rice,89,15,46,14.5,12,1
+7,Rice,72,44,41,25.5,11,1
+8,Rice,41,89,43,10.5,22,1
+9,Rice,78,24,41,8.1,10,1
+10,Rice,85,25,47,5.6,5,1
+11,Rice,45,41,45,5.4,3,1
+12,Rice,77,36,42,5.3,6,1
+13,Rice,45,35,44,5.4,9,1
+14,Rice,89,45,46,5.7,7,1
+15,Rice,84,42,44,5.4,8,1
+16,Rice,86,41,42,5.3,14,1
+17,Rice,83,49,44,5.1,15,1
+18,Rice,82,48,47,5.7,16,1
+19,Rice,81,42,43,6.5,14,1
+20,Rice,87,41,31,8.0,12,1
+21,Wheat,100,40,0,5.5,8,1
+22,Wheat,102,41,1,5.2,9,1
+23,Wheat,101,40,2,5.5,7,1
+24,Wheat,105,43,0,5.8,10,1
+25,Wheat,104,44,3,5.6,7,1
+26,Wheat,103,42,4,5.4,10,1
+27,Wheat,104,41,0,5.9,9,1
+28,Wheat,105,45,1,6,14,1
+29,Wheat,102,42,5,5.7,18,1
+30,Wheat,103,43,1,5.2,19,1
+31,Wheat,106,41,3,6.2,15,1
+32,Wheat,105,44,2,5.8,13,1
+33,Wheat,100,43,4,5.9,12,1
+34,Wheat,104,42,1,5.4,17,1
+35,Wheat,100,40,3,5.1,16,1
+36,Wheat,102,46,2,5.8,13,1
+37,Wheat,101,45,5,6.2,10,1
+38,Wheat,106,44,1,6.4,11,1
+39,Wheat,100,43,2,5.8,15,1
+40,Wheat,101,42,3,6.1,17,1
+41,Jowar(Sorghum),80,40,40,5.5,30,1
+42,Jowar(Sorghum),81,45,66,5.9,31,1
+43,Jowar(Sorghum),89,43,54,5.1,33,1
+44,Jowar(Sorghum),76,34,40,5.3,34,1
+45,Jowar(Sorghum),90,49,47,5.3,35,1
+46,Jowar(Sorghum),82,56,39,5.0,32,1
+47,Jowar(Sorghum),77,49,50,5.4,33,1
+48,Jowar(Sorghum),76,44,54,5.0,38,1
+49,Jowar(Sorghum),80,40,40,5.5,39,1
+50,Jowar(Sorghum),88,48,46,6.0,30,1
+51,Jowar(Sorghum),85,49,42,5.5,28,1
+52,Jowar(Sorghum),86,60,51,6.3,14,1
+53,Jowar(Sorghum),87,57,52,6.2,22,1
+54,Jowar(Sorghum),88,55,47,5.4,29,1
+55,Jowar(Sorghum),99,66,67,5.0,37,1
+56,Jowar(Sorghum),93,40,40,5.5,32,1
+57,Jowar(Sorghum),80,40,47,5.5,30,1
+58,Jowar(Sorghum),80,49,40,5.5,45,1
+59,Jowar(Sorghum),80,40,40,5.5,24,1
+60,Jowar(Sorghum),84,44,44,5.9,43,1
+61,Barley(JAV),70.00,40.00,45.00,5.50,18.00,1
+62,Barley(JAV),69.99,39.99,44.99,5.49,17.99,1
+63,Barley(JAV),69.97,39.95,44.95,5.48,17.98,1
+64,Barley(JAV),69.90,39.85,44.90,5.47,17.95,1
+65,Barley(JAV),69.85,39.80,44.85,5.46,17.93,1
+66,Barley(JAV),69.84,39.75,44.86,5.45,17.90,1
+67,Barley(JAV),69.83,39.70,44.80,5.44,17.85,1
+68,Barley(JAV),69.80,38.99,44.79,5.41,17.83,1
+69,Barley(JAV),68.99,38.90,44.77,5.39,17.80,1
+70,Barley(JAV),68.97,38.85,44.75,5.38,16.99,1
+71,Barley(JAV),68.90,38.80,44.73,5.37,16.95,1
+72,Barley(JAV),68.85,38.75,44.72,5.36,16.8,1
+73,Barley(JAV),68.83,38.70,44.70,5.34,16.79,1
+74,Barley(JAV),68.80,38.65,44.65,5.30,16.78,1
+75,Barley(JAV),68.75,38.55,44.55,5.29,16.75,1
+76,Barley(JAV),68.70,38.50,44.43,5.28,16.73,1
+77,Barley(JAV),67.05,38.45,44.32,5.25,16.70,1
+78,Barley(JAV),66.98,38.33,44.20,5.23,16.60,1
+79,Barley(JAV),66.95,38.30,44.19,5.20,16.56,1
+80,Barley(JAV),66.88,38.20,43.90,5.10,15.51,1
+81,Bajra(Pearl Millet),90,40,0,5.5,5,1
+82,Bajra(Pearl Millet),94,32,1,5.5,5,1
+83,Bajra(Pearl Millet),90,33,2,5.6,9,1
+84,Bajra(Pearl Millet),91,35,3,5.1,5,1
+85,Bajra(Pearl Millet),95,32,5,5.5,12,1
+86,Bajra(Pearl Millet),93,33,6,5.4,11,1
+87,Bajra(Pearl Millet),90,38,17,5.5,3,1
+88,Bajra(Pearl Millet),92,31,0,5.0,4,1
+89,Bajra(Pearl Millet),95,30,0,5.7,5,1
+90,Bajra(Pearl Millet),100,30,0,5.5,5,1
+91,Bajra(Pearl Millet),90,30,24,5.5,15,1
+92,Bajra(Pearl Millet),85,39,0,5.5,17,1
+94,Bajra(Pearl Millet),80,40,1,6.3,22,1
+95,Bajra(Pearl Millet),90,50,0,5.2,7,1
+96,Bajra(Pearl Millet),90,50,0,4.8,8,1
+97,Bajra(Pearl Millet),83,35,8,5.9,10,1
+98,Bajra(Pearl Millet),78,31,0,5.5,5,1
+99,Bajra(Pearl Millet),90,35,8,5.5,5,1
+100,Bajra(Pearl Millet),80,50,3,5.8,17,1
+101,Maize,81,42,21,5.5,18,1
+102,Maize,80,43,24,5.8,16,1
+103,Maize,80,41,19,5.3,13,1
+104,Maize,84,40,20,5.2,18,1
+105,Maize,82,44,23,5.5,17,1
+106,Maize,81,42,24,5.6,16,1
+107,Maize,83,41,23,5.7,17,1
+108,Maize,84,44,21,5.9,14,1
+109,Maize,81,42,25,5.7,19,1
+110,Maize,84,45,20,5.5,15,1
+111,Maize,82,41,23,5.7,18,1
+112,Maize,81,46,19,5.2,16,1
+113,Maize,85,44,20,5.5,18,1
+114,Maize,82,43,22,5.7,17,1
+115,Maize,81,40,20,5.2,18,1
+116,Maize,85,41,15,5.3,16,1
+117,Maize,80,44,26,5.7,11,1
+118,Maize,84,40,21,6.4,18,1
+119,Maize,86,41,22,5.6,12,1
+120,Maize,83,46,25,5.5,15,1
+121,Ragi( naachnnii),52,40,25,5.5,45,1
+122,Ragi( naachnnii),53,40,24,5.5,45,1
+123,Ragi( naachnnii),56,40,26,5.5,21,1
+124,Ragi( naachnnii),54,40,22,5.5,12,1
+125,Ragi( naachnnii),58,40,24,5.5,12,1
+126,Ragi( naachnnii),51,40,28,5.5,12,1
+127,Ragi( naachnnii),65,40,27,5.5,21,1
+128,Ragi( naachnnii),63,40,22,5.5,21,1
+129,Ragi( naachnnii),64,40,23,5.5,45,1
+130,Ragi( naachnnii),40,40,24,5.5,21,1
+131,Ragi( naachnnii),39,40,24,5.5,10,1
+132,Ragi( naachnnii),35,40,21,5.5,14,1
+133,Ragi( naachnnii),34,40,22,5.5,11,1
+134,Ragi( naachnnii),58,40,29,5.5,10,1
+135,Ragi( naachnnii),54,40,32,5.5,13,1
+136,Ragi( naachnnii),45,40,31,5.5,10,1
+137,Ragi( naachnnii),45,40,31,5.5,12,1
+138,Ragi( naachnnii),20,40,45,5.5,15,1
+139,Ragi( naachnnii),47,40,52,5.5,14,1
+140,Ragi( naachnnii),45,40,21,5.5,19,1
+141,Chickpeas(Channa),40.00,60.00,80.00,5.50,20.00,1
+142,Chickpeas(Channa),39.99,59.99,79.99,5.49,19.99,1
+143,Chickpeas(Channa),39.96,59.97,79.98,5.48,19.98,1
+144,Chickpeas(Channa),39.95,59.95,79.92,5.45,19.95,1
+145,Chickpeas(Channa),39.85,59.90,79.90,5.43,19.92,1
+146,Chickpeas(Channa),39.80,59.89,79.89,5.40,19.90,1
+147,Chickpeas(Channa),39.75,59.85,79.85,5.38,19.87,1
+148,Chickpeas(Channa),39.70,59.84,79.81,5.36,19.85,1
+149,Chickpeas(Channa),38.99,59.82,79.77,5.35,19.83,1
+150,Chickpeas(Channa),38.90,59.80,79.75,5.34,19.80,1
+151,Chickpeas(Channa),38.85,59.78,79.70,5.31,19.78,1
+152,Chickpeas(Channa),38.80,59.75,79.68,5.30,19.75,1
+153,Chickpeas(Channa),38.75,59.74,79.67,5.29,19.73,1
+154,Chickpeas(Channa),38.70,59.70,79.65,5.25,19.71,1
+155,Chickpeas(Channa),38.65,59.67,79.63,5.20,19.70,1
+156,Chickpeas(Channa),38.55,59.65,79.61,5.19,19.65,1
+157,Chickpeas(Channa),38.50,59.60,79.60,5.15,19.62,1
+158,Chickpeas(Channa),38.45,59.58,79.59,5.10,19.60,1
+159,Chickpeas(Channa),38.33,59.55,79.55,5.09,19.59,1
+160,Chickpeas(Channa),38.30,59.50,79.50,5.05,19.57,1
+161,French Beans(Farasbi),90,125,60,5.0,13,1
+162,French Beans(Farasbi),90,130,60,5.2,17,1
+163,French Beans(Farasbi),90,125,60,5.7,20,1
+164,French Beans(Farasbi),99,125,61,5.0,10,1
+165,French Beans(Farasbi),90,125,60,5.0,5,1
+166,French Beans(Farasbi),79,136,60,5.6,13,1
+167,French Beans(Farasbi),89,125,62,5.7,23,1
+168,French Beans(Farasbi),90,129,68,5.3,4,1
+169,French Beans(Farasbi),90,150,60,5.2,18,1
+170,French Beans(Farasbi),91,133,70,5.0,14,1
+171,French Beans(Farasbi),92,126,60,5.1,13,1
+172,French Beans(Farasbi),99,127,64,5.4,34,1
+173,French Beans(Farasbi),96,144,60,5.0,11,1
+174,French Beans(Farasbi),90,100,63,6.0,2,1
+175,French Beans(Farasbi),90,101,60,5.4,13,1
+176,French Beans(Farasbi),90,125,61,5.0,13,1
+177,French Beans(Farasbi),96,125,66,5.0,34,1
+178,French Beans(Farasbi),90,125,77,6.1,40,1
+179,French Beans(Farasbi),66,125,60,5.0,22,1
+180,French Beans(Farasbi),99,99,60,5.5,13,1
+181,Fava beans (Papdi - Val),91,125,60,5.2,25,1
+182,Fava beans (Papdi - Val),93,121,61,5.3,22,1
+183,Fava beans (Papdi - Val),94,122,63,5.1,21,1
+184,Fava beans (Papdi - Val),92,123,62,5.5,24,1
+185,Fava beans (Papdi - Val),95,121,63,5.6,23,1
+186,Fava beans (Papdi - Val),93,125,65,5.1,22,1
+187,Fava beans (Papdi - Val),95,126,60,5.6,21,1
+188,Fava beans (Papdi - Val),96,120,61,5.7,25,1
+189,Fava beans (Papdi - Val),92,122,64,5.4,21,1
+190,Fava beans (Papdi - Val),93,123,62,5.1,24,1
+191,Fava beans (Papdi - Val),95,121,60,5.5,25,1
+192,Fava beans (Papdi - Val),92,120,63,5.6,20,1
+193,Fava beans (Papdi - Val),94,122,64,5.2,23,1
+194,Fava beans (Papdi - Val),91,125,61,6.1,22,1
+195,Fava beans (Papdi - Val),93,126,65,6.7,21,1
+196,Fava beans (Papdi - Val),95,123,66,5.3,25,1
+197,Fava beans (Papdi - Val),96,126,62,6.8,22,1
+198,Fava beans (Papdi - Val),92,121,61,6.3,21,1
+199,Fava beans (Papdi - Val),90,123,65,6.8,25,1
+200,Fava beans (Papdi - Val),91,122,60,6.2,22,1
+201,Lima beans(Pavta),40,60,20,5.0,40,1
+202,Lima beans(Pavta),41,69,20,5.0,21,1
+203,Lima beans(Pavta),42,60,20,5.1,29,1
+204,Lima beans(Pavta),43,61,20,5.2,21,1
+205,Lima beans(Pavta),44,60,20,5.0,34,1
+206,Lima beans(Pavta),45,60,20,5.3,21,1
+207,Lima beans(Pavta),46,60,21,5.0,30,1
+208,Lima beans(Pavta),47,59,20,5.0,21,1
+209,Lima beans(Pavta),48,65,20,5.6,34,1
+210,Lima beans(Pavta),49,70,20,5.7,21,1
+211,Lima beans(Pavta),50,69,25,5.5,33,1
+212,Lima beans(Pavta),52,68,20,5.9,21,1
+213,Lima beans(Pavta),54,60,20,5.0,29,1
+214,Lima beans(Pavta),56,67,26,5.8,28,1
+215,Lima beans(Pavta),58,60,20,5.7,25,1
+216,Lima beans(Pavta),60,63,27,6.0,31,1
+217,Lima beans(Pavta),40,60,20,6.1,21,1
+218,Lima beans(Pavta),40,62,28,6.9,21,1
+219,Lima beans(Pavta),50,61,33,7.0,22,1
+220,Lima beans(Pavta),40,60,30,5.0,21,1
+221,Cluster Beans(Gavar),26,50,26,5.0,15,1
+222,Cluster Beans(Gavar),27,50,27,5.0,22,1
+223,Cluster Beans(Gavar),28,50,22,5.0,21,1
+224,Cluster Beans(Gavar),24,50,24,5.0,16,1
+225,Cluster Beans(Gavar),21,50,26,5.0,17,1
+226,Cluster Beans(Gavar),32,50,27,5.0,19,1
+227,Cluster Beans(Gavar),33,50,22,5.0,25,1
+228,Cluster Beans(Gavar),31,50,45,5.0,24,1
+229,Cluster Beans(Gavar),25,50,25,5.0,26,1
+230,Cluster Beans(Gavar),36,50,25,5.0,21,1
+231,Cluster Beans(Gavar),34,50,15,5.0,45,1
+232,Cluster Beans(Gavar),39,50,25,5.0,12,1
+233,Cluster Beans(Gavar),40,50,45,5.0,25,1
+234,Cluster Beans(Gavar),25,50,25,5.0,15,1
+235,Cluster Beans(Gavar),65,50,35,5.0,31,1
+236,Cluster Beans(Gavar),45,50,25,5.0,25,1
+237,Cluster Beans(Gavar),45,50,45,5.0,24,1
+238,Cluster Beans(Gavar),78,50,26,5.0,25,1
+239,Cluster Beans(Gavar),45,50,29,5.0,26,1
+240,Cluster Beans(Gavar),65,50,45,5.0,27,1
+241,Soyabean,20,60,20,5.5,2,1
+242,Soyabean,19.99,20,5.5,2,1
+243,Soyabean,19.98,20,5.5,2,1
+244,Soyabean,19.95,20,5.5,2,1
+245,Soyabean,19.90,20,5.5,2,1
+246,Soyabean,19.87,20,5.5,2,1
+247,Soyabean,19.85,20,5.5,2,1
+248,Soyabean,19.80,20,5.5,2,1
+249,Soyabean,19.75,20,5.5,2,1
+250,Soyabean,19.73,20,5.5,2,1
+251,Soyabean,19.70,20,5.5,2,1
+252,Soyabean,19.65,20,5.5,2,1
+253,Soyabean,19.60,20,5.5,2,1
+254,Soyabean,19.58,20,5.5,2,1
+255,Soyabean,19.55,20,5.5,2,1
+256,Soyabean,19.51,20,5.5,2,1
+257,Soyabean,19.48,20,5.5,2,1
+258,Soyabean,19.45,20,5.5,2,1
+259,Soyabean,19.43,20,5.5,2,1
+260,Soyabean,19.41,20,5.5,2,1
+261,Peanuts,15,23,0,5.8,48,1
+262,Peanuts,16,40,1,4.9,40,1
+263,Peanuts,18,25,2,5.5,38,1
+264,Peanuts,19,40,3,5.2,33,1
+265,Peanuts,13,25,4,5.5,46,1
+266,Peanuts,14,30,0,5.7,34,1
+267,Peanuts,11,25,5,5.5,27,1
+268,Peanuts,10,25,6,5.9,55,1
+269,Peanuts,9,29,7,5.5,36,1
+270,Peanuts,25,25,8,6.0,30,1
+271,Peanuts,16,25,9,5.5,39,1
+272,Peanuts,14,35,10,5.9,38,1
+273,Peanuts,20,25,11,5.5,22,1
+274,Peanuts,15,45,23,5.9,44,1
+275,Peanuts,15,15,22,5.5,22,1
+276,Peanuts,15,35,15,5.5,45,1
+277,Peanuts,9,25,12,5.6,39,1
+278,Peanuts,15,25,0,5.5,21,1
+279,Peanuts,5,25,1,5.5,38,1
+280,Peanuts,1,25,6,5.5,11,1
+281,Black eyed beans( chawli),20,62,20,5.5,9,1
+282,Black eyed beans( chawli),21,61,22,5.7,10,1
+283,Black eyed beans( chawli),22,64,21,5.8,16,1
+284,Black eyed beans( chawli),23,63,25,5.3,14,1
+285,Black eyed beans( chawli),22,61,22,5.1,12,1
+286,Black eyed beans( chawli),24,64,23,5.5,16,1
+287,Black eyed beans( chawli),21,65,21,5.6,14,1
+288,Black eyed beans( chawli),25,62,22,5.7,15,1
+289,Black eyed beans( chawli),22,63,25,5.8,11,1
+290,Black eyed beans( chawli),21,61,22,5.2,13,1
+291,Black eyed beans( chawli),24,64,25,5.1,12,1
+292,Black eyed beans( chawli),25,65,26,5.4,16,1
+293,Black eyed beans( chawli),26,61,27,6.6,10,1
+294,Black eyed beans( chawli),21,63,22,5.7,11,1
+295,Black eyed beans( chawli),23,62,21,5.8,16,1
+296,Black eyed beans( chawli),25,61,24,6.1,10,1
+297,Black eyed beans( chawli),26,65,23,5.2,19,1
+298,Black eyed beans( chawli),27,62,22,5.5,18,1
+299,Black eyed beans( chawli),25,61,21,5.2,16,1
+300,Black eyed beans( chawli),21,65,24,5.6,12,1
+301,Kidney beans,20,60,20,5.5,16,1
+302,Kidney beans,19.99,20,5.5,16,1
+303,Kidney beans,19.95,20,5.5,16,1
+304,Kidney beans,19.90,20,5.5,16,1
+305,Kidney beans,19.87,20,5.5,16,1
+306,Kidney beans,19.86,20,5.5,16,1
+307,Kidney beans,19.82,20,5.5,16,1
+308,Kidney beans,19.80,20,5.5,16,1
+309,Kidney beans,19.79,20,5.5,16,1
+310,Kidney beans,19.76,20,5.5,16,1
+311,Kidney beans,19.75,20,5.5,16,1
+312,Kidney beans,19.72,20,5.5,16,1
+313,Kidney beans,19.70,20,5.5,16,1
+314,Kidney beans,19.68,20,5.5,16,1
+315,Kidney beans,19.67,20,5.5,16,1
+316,Kidney beans,19.65,20,5.5,16,1
+317,Kidney beans,19.62,20,5.5,16,1
+318,Kidney beans,19.60,20,5.5,16,1
+319,Kidney beans,19.59,20,5.5,16,1
+320,Kidney beans,19.55,20,5.5,16,1
+321,pigeon peas(Toor Dal),21,60,20,5.5,28,1
+322,pigeon peas(Toor Dal),26,60,20,5.5,29,1
+323,pigeon peas(Toor Dal),25,60,27,5.5,45,1
+324,pigeon peas(Toor Dal),28,60,29,5.5,15,1
+325,pigeon peas(Toor Dal),24,60,20,5.5,32,1
+326,pigeon peas(Toor Dal),23,60,20,5.5,31,1
+327,pigeon peas(Toor Dal),12,60,20,5.5,30,1
+328,pigeon peas(Toor Dal),31,60,24,5.5,34,1
+329,pigeon peas(Toor Dal),32,60,20,5.5,25,1
+330,pigeon peas(Toor Dal),32,60,20,5.5,24,1
+331,pigeon peas(Toor Dal),33,60,30,5.5,26,1
+332,pigeon peas(Toor Dal),34,60,20,5.5,27,1
+333,pigeon peas(Toor Dal),26,60,20,5.5,38,1
+334,pigeon peas(Toor Dal),28,60,20,5.5,39,1
+335,pigeon peas(Toor Dal),18,60,20,5.5,37,1
+336,pigeon peas(Toor Dal),46,60,20,5.5,31,1
+337,pigeon peas(Toor Dal),25,60,20,5.5,26,1
+338,pigeon peas(Toor Dal),24,60,20,5.5,28,1
+339,pigeon peas(Toor Dal),48,60,20,5.5,27,1
+340,pigeon peas(Toor Dal),34,60,20,5.5,35,1
+341,Moth bean(Matki),20.00,40,20,5.5,17,1
+342,Moth bean(Matki),19.99,40,20,5.5,17,1
+343,Moth bean(Matki),19.97,40,20,5.5,17,1
+344,Moth bean(Matki),19.95,40,20,5.5,17,1
+345,Moth bean(Matki),19.92,40,20,5.5,17,1
+346,Moth bean(Matki),19.89,40,20,5.5,17,1
+347,Moth bean(Matki),19.85,40,20,5.5,17,1
+348,Moth bean(Matki),19.84,40,20,5.5,17,1
+349,Moth bean(Matki),19.81,40,20,5.5,17,1
+350,Moth bean(Matki),19.80,40,20,5.5,17,1
+351,Moth bean(Matki),19.79,40,20,5.5,17,1
+352,Moth bean(Matki),19.75,40,20,5.5,17,1
+353,Moth bean(Matki),19.73,40,20,5.5,17,1
+354,Moth bean(Matki),19.71,40,20,5.5,17,1
+355,Moth bean(Matki),19.68,40,20,5.5,17,1
+356,Moth bean(Matki),19.67,40,20,5.5,17,1
+357,Moth bean(Matki),19.64,40,20,5.5,17,1
+358,Moth bean(Matki),19.60,40,20,5.5,17,1
+359,Moth bean(Matki),19.58,40,20,5.5,17,1
+360,Moth bean(Matki),19.51,40,20,5.5,17,1
+361,Mung beans,34,40,20,5.7,45,1
+362,Mung beans,20,43,29,5.5,29,1
+363,Mung beans,27,45,20,5.8,41,1
+364,Mung beans,18,46,28,5.1,31,1
+365,Mung beans,20,47,20,5.5,29,1
+366,Mung beans,35,40,27,5.9,55,1
+367,Mung beans,34,48,20,5.7,29,1
+368,Mung beans,31,40,26,5.3,44,1
+369,Mung beans,20,49,20,5.0,29,1
+370,Mung beans,30,40,21,5.3,56,1
+371,Mung beans,29,40,20,5.9,29,1
+372,Mung beans,28,50,21,6.1,43,1
+373,Mung beans,20,51,20,5.5,29,1
+374,Mung beans,26,40,22,5.5,32,1
+375,Mung beans,25,52,20,5.5,29,1
+376,Mung beans,20,55,19,5.8,21,1
+377,Mung beans,20,46,20,5.5,29,1
+378,Mung beans,23,41,20,5.3,40,1
+379,Mung beans,22,41,20,5.5,29,1
+380,Mung beans,21,40,20,5.8,30,1
+381,Green Peas,40,35,55,6.0,9,1
+382,Green Peas,41,33,54,6.2,10,1
+383,Green Peas,44,31,53,6.4,11,1
+384,Green Peas,43,33,51,6.3,12,1
+385,Green Peas,41,35,53,6.1,8,1
+386,Green Peas,40,36,51,6.5,7,1
+387,Green Peas,42,31,54,6.6,14,1
+388,Green Peas,43,30,56,6.5,16,1
+389,Green Peas,44,36,52,6.2,17,1
+390,Green Peas,42,38,51,6.1,14,1
+391,Green Peas,41,31,55,6.4,13,1
+392,Green Peas,44,33,52,6.5,11,1
+393,Green Peas,45,34,54,6.6,23,1
+394,Green Peas,44,35,51,6.1,12,1
+395,Green Peas,42,36,50,6.3,11,1
+396,Green Peas,41,32,52,6.5,16,1
+397,Green Peas,40,31,54,6.6,14,1
+398,Green Peas,42,33,53,6.1,11,1
+399,Green Peas,41,32,51,6.2,12,1
+400,Green Peas,44,34,54,6.5,13,1
+401,Horse Gram(kulthi),20,60,20,6.0,22,1
+402,Horse Gram(kulthi),19.99,20,6.0,22,1
+403,Horse Gram(kulthi),19.98,20,6.0,22,1
+404,Horse Gram(kulthi),19.95,20,6.0,22,1
+405,Horse Gram(kulthi),19.91,20,6.0,22,1
+406,Horse Gram(kulthi),19.87,20,6.0,22,1
+407,Horse Gram(kulthi),19.85,20,6.0,22,1
+408,Horse Gram(kulthi),19.83,20,6.0,22,1
+409,Horse Gram(kulthi),19.82,20,6.0,22,1
+410,Horse Gram(kulthi),19.80,20,6.0,22,1
+411,Horse Gram(kulthi),19.79,20,6.0,22,1
+412,Horse Gram(kulthi),19.75,20,6.0,22,1
+413,Horse Gram(kulthi),19.73,20,6.0,22,1
+414,Horse Gram(kulthi),19.72,20,6.0,22,1
+415,Horse Gram(kulthi),19.70,20,6.0,22,1
+416,Horse Gram(kulthi),19.67,20,6.0,22,1
+417,Horse Gram(kulthi),19.65,20,6.0,22,1
+418,Horse Gram(kulthi),19.61,20,6.0,22,1
+419,Horse Gram(kulthi),19.59,20,6.0,22,1
+420,Horse Gram(kulthi),19.55,20,6.0,22,1
+421,Black Gram,40,60,20,5.0,10,1
+422,Rapeseed (Mohri),50,40,20,5.0,28,1
+423,Coriander seeds,90,20,20,6.5,36,1
+424,Mustard seeds,100,30,15,6.5,13,1
+425,sesame seed,30,15,30,6.5,21,1
+426,Cumin seeds,90,60,20,6.5,39,1
+427,Lentils(Masoor Dal),20,60,20,5.5,8,1
+428,Brinjal,80,15,40,6.5,6,1
+429,Beetroot,120,50,100,5.5,22,1
+430,Bitter Gourd,60,10,20,6.5,13,1
+431,Bottle Gourd,100,50,50,6.5,15,1
+432,Capsicum,100,20,60,6.5,26,1
+433,Cabbage,100,65,70,6.5,12,1
+434,Carrot,40,45,60,5.5,2,1
+435,Cauliflower,80,70,50,6.5,37,1
+436,Cucumber,60,60,85,6.5,11,1
+437,Coriander leaves,10,20,20,6.5,28,1
+438,Curry leaves,20,20,20,6.5,15,1
+439,Drumstick – moringa,40,20,10,6.5,29,1
+440,Chili,120,20,80,6.5,20,2
+441,Lady Finger,80,10,40,6.5,8,2
+442,Mushroom,100,50,60,6.5,6,2
+443,Onion,120,60,65,6.0,9,2
+444,Potato,180,60,90,5.0,16,2
+445,Pumpkin,80,50,30,5.5,35,2
+446,Radish,25,100,50,6.0,7,2
+447,Olive,100,60,30,6.5,9,2
+448,Sweet Potato,90,20,120,5.0,9,2
+449,Fenugreek Leaf(methi),30,25,40,6.0,11,2
+450,Spinach,60,60,50,6.0,11,2
+451,Ridgegourd,90,50,20,6.5,29,2
+452,Gooseberry(Amla),20,50,20,4.5,29,2
+453,Jambun(Syzygium cumini),10,10,10,4.2,15,2
+454,Ziziphus mauritiana(Bor),20,10,10,6.0,14,2
+455,Garcinia indica(kokam),40,25,50,4.2,8,2
+456,Tamarind,20,15,25,3.1,38,2
+457,Tapioca(Suran),50,50,50,5.5,11,2
+458,Garlic,50,10,60,5.5,7,2
+459,Lemon,20,10,10,3.1,14,2
+460,Tomato,100,40,90,6.0,8,2
+461,Ash Gourd,60,10,30,5.5,26,2
+462,Pineapple,160,40,120,6.5,5,2
+463,Pomegranate,20,10,40,5.5,4,2
+464,Banana,100,75,50,6.5,24,2
+465,Mango,20,20,30,5.0,5,2
+466,Grapes,20,125,200,4.0,36,2
+467,Jackfruit,75,40,50,5.0,1,2
+468,Guava,50,50,50,5.0,27,2
+469,Water Melon,100,10,50,5.5,35,2
+470,Musk Melon,100,10,50,5.5,4,2
+471,Apricot,40,50,25,6.5,27,2
+472,Apple,20,125,200,6.5,10,2
+473,Chickoo,40,30,60,5.0,39,2
+474,Custard apple,40,20,40,6.5,37,2
+475,Dates,40,125,20,6.5,25,2
+476,Figs,20,60,20,5.0,27,2
+477,Orange,20,10,10,4.0,26,2
+478,Papaya,50,50,50,6.0,33,2
+479,Aniseed,100,50,20,5.0,0,2
+480,Asafoetida,90,40,20,5.0,28,3
+481,Bay Leaf,100,50,25,5.0,6,3
+482,Black Pepper,100,60,50,5.0,26,3
+483,Cardamom,75,75,150,5.0,25,3
+484,Cinnamon,20,20,25,5.0,35,3
+485,Cloves,20,20,60,5.0,27,3
+486,Jaiphal(Nutmeg),20,20,60,5.0,36,3
+487,Ginger,40,50,20,5.0,30,3
+488,Turmeric,25,60,100,5.0,11,3
+489,Cashewnuts,70,40,60,6.0,13,3
+490,Raisins,60,30,30,6.0,15,3
+491,Coconut,20,10,30,5.0,9,3
+492,Almond Nut,70,20,10,6.0,19,3
+493,Arecanut,100,40,140,6.0,22,3
+494,Pistachio Nut,90,20,20,6.0,7,3
+495,Lemon Grass,25,40,40,5.5,17,3
+496,Cotton,120,40,20,5.5,28,3
+497,Jute,80,40,40,5.5,28,3
+498,Coffee,100,20,30,5.5,1,3
+499,Sugarcane,112,50,0,5.5,15,3
+500,Sunflower,50,60,30,5.5,15,34
